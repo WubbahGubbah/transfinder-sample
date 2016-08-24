@@ -1,0 +1,63 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="URLNationalMap" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">http://services.nationalmap.gov/arcgis/services/WFS/geonames/MapServer/WFSServer?request=GetCapabilities&amp;service=WFS</Value>
+    </Setting>
+    <Setting Name="URLWeather" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">http://api.openweathermap.org/data/2.5/weather?lat=43.6&amp;lon=-73.5</Value>
+    </Setting>
+    <Setting Name="UTLDirectionTest" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">http://maps.googleapis.com/maps/api/directions/json?origin=42.66094,-73.79817&amp;destination=42.65854,-73.79584</Value>
+    </Setting>
+    <Setting Name="URLSchoolsList" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">http://mwilson:mwilson123@50.19.85.246/devsample/apiv1.svc/databases/1/schools</Value>
+    </Setting>
+    <Setting Name="URLTripsList" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">http://mwilson:mwilson123@50.19.85.246/devsample/apiv1.svc/databases/1/schools/&lt;schoolid&gt;/trips</Value>
+    </Setting>
+    <Setting Name="schoolIDReplaceString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;schoolid&gt;</Value>
+    </Setting>
+    <Setting Name="myAuthCode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mwilson:mwilson123</Value>
+    </Setting>
+    <Setting Name="URLStopsList" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">http://mwilson:mwilson123@50.19.85.246/devsample/apiv1.svc/databases/1/trips/&lt;tripid&gt;/stops</Value>
+    </Setting>
+    <Setting Name="tripIDReplaceString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;tripid&gt;</Value>
+    </Setting>
+    <Setting Name="URLDirections" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">http://maps.googleapis.com/maps/api/directions/json?origin=&lt;originLatLon&gt;&amp;destination=&lt;destinationLatLon&gt;</Value>
+    </Setting>
+    <Setting Name="URLDirectionsReplaceOriginLatLon" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;originLatLon&gt;</Value>
+    </Setting>
+    <Setting Name="URLDirectionsReplaceDestinationLatLon" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;destinationLatLon&gt;</Value>
+    </Setting>
+    <Setting Name="URLStreetView" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://maps.googleapis.com/maps/api/streetview?size=300x200&amp;location=&lt;loclat&gt;,&lt;loclon&gt;&amp;heading=&lt;locheading&gt;&amp;key=AIzaSyAX7KWj1v1qgmDeDN7eeg2DFqjStTuTArs</Value>
+    </Setting>
+    <Setting Name="URLStreetViewLatReplaceString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;loclat&gt;</Value>
+    </Setting>
+    <Setting Name="URLStreetViewLonReplaceString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;loclon&gt;</Value>
+    </Setting>
+    <Setting Name="URLStreetViewHeadingReplaceString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;locheading&gt;</Value>
+    </Setting>
+    <Setting Name="URLOneStop" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">http://50.19.85.246/devsample/apiv1.svc/databases/1/trips/stops/&lt;stopid&gt;</Value>
+    </Setting>
+    <Setting Name="stopIDReplaceString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;stopid&gt;</Value>
+    </Setting>
+    <Setting Name="sideWindowOffset" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">80</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

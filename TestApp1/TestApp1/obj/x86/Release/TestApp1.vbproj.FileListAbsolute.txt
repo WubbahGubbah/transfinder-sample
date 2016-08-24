@@ -1,0 +1,14 @@
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\TestApp1\TestApp1\bin\Release\TestApp1.exe.config
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\TestApp1\TestApp1\bin\Release\TestApp1.exe
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\TestApp1\TestApp1\bin\Release\TestApp1.pdb
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\TestApp1\TestApp1\bin\Release\TestApp1.xml
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\TestApp1\TestApp1\bin\Release\Newtonsoft.Json.dll
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\TestApp1\TestApp1\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\TestApp1\TestApp1\bin\Release\Newtonsoft.Json.xml
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\TestApp1\TestApp1\obj\x86\Release\TestApp1.vbprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\TestApp1\TestApp1\obj\x86\Release\TestApp1.TestApp1.resources
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\TestApp1\TestApp1\obj\x86\Release\TestApp1.Resources.resources
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\TestApp1\TestApp1\obj\x86\Release\TestApp1.vbproj.GenerateResource.Cache
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\TestApp1\TestApp1\obj\x86\Release\TestApp1.exe
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\TestApp1\TestApp1\obj\x86\Release\TestApp1.xml
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\TestApp1\TestApp1\obj\x86\Release\TestApp1.pdb
